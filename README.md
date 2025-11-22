@@ -1,4 +1,4 @@
-Startup Funding Data Cleaning
+project name: Startup Funding Data Cleaning
 
 This project explores Indian startup funding using an interactive Power BI dashboard.
 The dataset covers details about startups, locations, industries, investors, funding amounts, and dates.
@@ -52,7 +52,7 @@ Power BI
 
 Power Query
 
-Excel (for quick validation)
+
 
 
 
