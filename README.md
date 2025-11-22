@@ -4,7 +4,6 @@ This project explores Indian startup funding using an interactive Power BI dashb
 The dataset covers details about startups, locations, industries, investors, funding amounts, and dates.
 
 
-
 Data Preparation:
 
 Cleaned and transformed the dataset in Power Query
